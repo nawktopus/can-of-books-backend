@@ -1,11 +1,29 @@
-# Start your own "Can of Books" App
+# Project Name
 
-This repository has starter code to begin work on creating your own online bookshelf.
+Can of Books
 
-## What can books do?
+**Author**: Jonathan Staib and Jordan Kwan
+**Version**: 1.0.0 (increment the patch/fix version number if you make more commits past your first submission)
 
-Books are life-changing. They have the power to enlighten, educate, entertain, heal, and help us grow. Build out this code base to create an web app to track what books have impacted you, and what's recommended to read next.
+## Overview
 
-## Use this template
+We will be making a frontend and backend to populate some of your favorite books using MongoDB to access a database.
 
-Clone this repo to your own account with the green "Use this template" button. Then, add any collaborators. Now you are ready to start adding features! Deploy your site to let the world know which books have had the greatest impact on you, and what's recommended. Enjoy!
+## Getting Started
+
+Create a front end and backend. Get information from a database. Grab information on the front end and display it using React. Deploy.
+
+## Architecture
+
+MongoDB, Javascript, React, axios, cors, express, dotenv, css, github.
+
+## Change Log
+
+10/31/22 5:14 pm EST Read ME completed
+
+## Estimates
+<!-- See below -->
+
+## Credit and Collaborations
+
+[WikiPedia](https://www.wikipedia.org/)
