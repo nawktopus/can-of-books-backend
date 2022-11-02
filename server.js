@@ -79,7 +79,7 @@ async function updateBook(request, response, next){
 
     const updatedBook = await Book.findByIdAndUpdate(id, data, { new: true, overwrite: true});
 
-    response.status(200).send(updatedBook);
+    response.status(201).send(updatedBook);
 
   } catch (error) {
     next(error);
